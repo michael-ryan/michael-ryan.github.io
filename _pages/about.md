@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 # maybe write bio below this line.
 ---
 
-<!-- [Blog](http://michael-ryan.github.io/blog) -->
+You're probably here for <a href="/blog/">the blog</a>. But if you want to contact me instead, use the big email button at the bottom of this page.

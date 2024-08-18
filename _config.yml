@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mike's Words # the website title (if blank, full name will be used instead)
+title: Mike's words # the website title (if blank, full name will be used instead)
 first_name: Michael
 last_name: Ryan
 email: mehmenmike@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   An eventually-cessant rambling.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Source available <a href="https://github.com/michael-ryan/michael-ryan.github.io">on Github</a>.
 keywords: jekyll, jekyll-theme # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/) // TODO
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/) // TODO
 
 url: https://michael-ryan.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
