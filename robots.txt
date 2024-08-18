@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://michael-ryan.github.io/blog/sitemap.xml
+Sitemap: https://michael-ryan.github.io/sitemap.xml
