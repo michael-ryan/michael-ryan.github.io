@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing about writing
+title: Writing About Writing
 date: 2024-08-18
 description: Words about words.
 ---
