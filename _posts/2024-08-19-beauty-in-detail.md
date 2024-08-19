@@ -15,4 +15,4 @@ Everything has detail if only you choose to look for it. The paint on your walls
 
 The next time you walk down the street, try to look for things you've never seen before. Within seconds you'll find a road marking you never noticed is wearing away, or a small grey box on the side of a building, the function of which you'll never know.
 
-The next time you're bored and reaching for your phone, try to see something new in the world.
+The next time you're bored and reaching for your phone, try instead to see something new in the world.
