@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # blog_name: Mike's words # blog_name will be displayed in your blog page
 # blog_description: an eventually-cessant rambling
-permalink: /blog/:year/:title/
+permalink: /blog/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
