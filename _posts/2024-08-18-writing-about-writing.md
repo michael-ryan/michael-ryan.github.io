@@ -25,4 +25,6 @@ So, what can you as a reader expect from this blog? Unreliable post frequency, d
 
 And that chance alone makes this all worth it.
 
+---
+
 [^1]: I haven't always liked writing. In fact, I hated it as a child. I could never write enough, and this had my English teachers hounding me for lazily not reaching word counts. The gods themselves tremble before the blunt concision of a story written by seven-year-old Mike. But the truth is I wasn't lazy, I just said all I felt needed to be said in fewer words than most, perhaps at the expense of the occasional metaphor or adjectival phrase. This changed when I reached university, and I went from writing stories to writing reports. Equally, the person reviewing my work went from the school's Head of English to one of a few researchers who clearly considered it beneath them to pore over paragraph after paragraph of their students' work. Suddenly, saying exactly what needed to be said and not a word more was a virtue, and I thrived for exactly the same behaviours that earned me detentions a decade prior.
