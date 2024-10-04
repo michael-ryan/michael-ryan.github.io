@@ -63,7 +63,7 @@ So, in this pursuit to get rid of buttons, I'm going to make things even crazier
     %}
 </div>
 
-Let's address wrist pain. It's generally agreed that having your wrist bent outwards towards your pinky for an extended period is unhealthy. Easily done, just move the keys to your hand so you can reach all keys without bending your wrist.
+Let's address wrist pain. It's generally agreed that having your wrist bent outwards towards your pinky for an extended period is unhealthy. Easily solved, just move the keys to your hand so you can reach all keys without bending your wrist.
 
 <div style="display: flex; justify-content: center;">
     {% include figure.liquid
