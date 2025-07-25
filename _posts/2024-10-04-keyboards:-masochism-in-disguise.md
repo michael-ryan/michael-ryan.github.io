@@ -156,5 +156,7 @@ There are dozens of behaviours you can assign to keys. Hundreds of standard keyb
 ---
 
 [^1]: "The paper, the alphabet. The dog, the oven." It's not totally ubiquitous, but most speakers will say something more like 'thee' when preceding a vowel sound to avoid the mildly uncomfortable glottal stop. Man, I totally would have studied linguistics if I wasn't into computers.
+
 [^2]: There are competing theories as to exactly how and why the QWERTY layout was invented. [This paper](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf) aims to explore the real reasoning.
+
 [^3]: At time of writing, complex behaviour like this is usually achieved with either QMK or ZMK keyboard firmware. [Here's](https://zmk.dev/docs/keymaps/behaviors/hold-tap) the ZMK documentation for hold-tap.

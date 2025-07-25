@@ -16,4 +16,5 @@ Know your worth as someone who creates value. Do not get comfortable in stagnati
 ---
 
 [^1]: If you've not (yet) had the misfortune of experiencing a layoff meeting, you won't know just how brutal they can be. Expect to hear things like: "This decision is not up for negotiation." "We wish you luck." etc. If this takes place in an office, you will be greeted by security as you leave the meeting room, who will helpfully offer to show you the way out of the building. They'll even generously look after your company ID card - you know, the one required to enter the building. Remote working instead? Within seconds after the Zoom call ends, your company-provided laptop will lock you out, and your personal GitHub account will be removed from the company's organisation.
+
 [^2]: I speak only for the world of software engineering. Translate as appropriate for your line of work.
