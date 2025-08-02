@@ -32,4 +32,5 @@ This will not work one day. I can say with absolute certainty that there will be
 ---
 
 [^1]: Other peer-to-peer marketplaces are available.
+
 [^2]: Creating stuff on the internet is always temporary. And before you tell me I'm wrong, because that picture of your wrecked car from 2009 is still on Facebook, think about the coordination it took between thousands of people to keep that image accessible. Software engineers performing migrations safely to ensure data is brought onto newer versions of databases before support is dropped. Compliance teams in charge of making sure the organisation obeys new and evolving law, like GDPR and CCPA. Frontend engineers working so the Facebook website itself (that is, the tip of the iceberg) still functions - even on multiple different browsers, on different platforms. And of course, the mobile app. It's a Ship of Theseus, completely changed and yet still bears same name. Everything, EVERYTHING needs constant maintenance, real or digital.
